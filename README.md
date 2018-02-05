@@ -5,4 +5,4 @@
 ## 深度学习
 * 深度学习性能提高:  URL: http://blog.csdn.net/han_xiaoyang/article/details/52654879
 * 生成对抗网络(GANs):
-  * GANs科普： URL:http://blog.csdn.net/c2a2o2/article/details/54408072
+  * GANs科普： URL: http://blog.csdn.net/c2a2o2/article/details/54408072
