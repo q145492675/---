@@ -13,7 +13,7 @@
   * 标准化数据:
      * 将数据按比例缩放，使之落入一个小的特定区间。由于信用指标体系的各个指标度量单位是不同的，为了能够将指标参与评价计算，需要对指标进行规范化处理，通过函数变换将其数值映射到某个数值区间。
  * Support Vector Machine (支持向量机)
-     *   在CNN中使用SVM进行分类-Keras实现。 URL: http://blog.csdn.net/ying86615791/article/details/71366184
+   *  在CNN中使用SVM进行分类-Keras实现。 URL: http://blog.csdn.net/ying86615791/article/details/71366184
 ## 深度学习
 * 深度学习性能提高:   URL: http://blog.csdn.net/han_xiaoyang/article/details/52654879
 * 生成对抗网络(GANs):
