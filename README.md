@@ -19,6 +19,7 @@
 * 深度学习性能提高:   URL: http://blog.csdn.net/han_xiaoyang/article/details/52654879
 * 生成对抗网络(GANs):
   * GANs科普： URL: http://blog.csdn.net/c2a2o2/article/details/54408072
+  * Cycle-GANs 科普: URL: http://blog.csdn.net/c2a2o2/article/details/73338026
 * 卷积神经网络(CNN):
   *  CNN的调优方法:  URL:http://blog.csdn.net/app_12062011/article/details/64439627
 * 激活函数(Activation):
