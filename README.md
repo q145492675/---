@@ -22,8 +22,8 @@
   *   Cycle-GANs 科普: URL: http://blog.csdn.net/c2a2o2/article/details/73338026
 * 卷积神经网络(CNN):
   *  CNN的调优方法:  URL:http://blog.csdn.net/app_12062011/article/details/64439627
-*  残差网络(ResNet):
-  *  ResNet 科普:  URL:  http://blog.csdn.net/scety/article/details/52957991
+* 残差网络(ResNet):
+  *  ResNet 科普:  URL:  http://blog.csdn.net/scety/article/details/52957991
 * 激活函数(Activation):
   *  ReLU/LReLU/PReLU等函数定义：  URL:http://blog.csdn.net/qq_20909377/article/details/79133981
 * 什么问题不适合用深度学习的方法解决？
