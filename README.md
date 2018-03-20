@@ -16,7 +16,8 @@
    *  在CNN中使用SVM进行分类-Keras实现。 URL: http://blog.csdn.net/ying86615791/article/details/71366184
 * 神仙打架：CIFAR10和MNIST 数据库判别准确率Ranking。  URL：http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354
 ## 深度学习
-* 深度学习性能提高:   URL: http://blog.csdn.net/han_xiaoyang/article/details/52654879
+* 怎么训练/预测 Variable Size 的数据：  URL:https://github.com/keras-team/keras/issues/1920
+* 深度学习性能提高:   URL: http://blog.csdn.net/han_xiaoyang/article/details/52654879
 * 生成对抗网络(GANs):
   * GANs科普： URL: http://blog.csdn.net/c2a2o2/article/details/54408072
   *   Cycle-GANs 科普: URL: http://blog.csdn.net/c2a2o2/article/details/73338026
