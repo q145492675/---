@@ -21,6 +21,8 @@
 * 生成对抗网络(GANs):
   * GANs科普： URL: http://blog.csdn.net/c2a2o2/article/details/54408072
   *   Cycle-GANs 科普: URL: http://blog.csdn.net/c2a2o2/article/details/73338026
+  * GANs training trick: https://github.com/soumith/ganhacks  (GANHACKs)
+  * GANs training expression: https://medium.com/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9
 * 卷积神经网络(CNN):
   *  CNN的调优方法:  URL:http://blog.csdn.net/app_12062011/article/details/64439627
 * 残差网络(ResNet):
